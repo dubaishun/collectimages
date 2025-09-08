@@ -188,7 +188,7 @@ web-image-scraper/
 
 **速光网络软件开发**
 - 网站: [suguang.cc](https://suguang.cc)
-- 邮箱: contact@suguang.cc
+- vx: 15120086569
 
 ## 🙏 致谢
 
